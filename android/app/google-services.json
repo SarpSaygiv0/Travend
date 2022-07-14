@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "240664585505",
+    "project_id": "travend-f538c",
+    "storage_bucket": "travend-f538c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240664585505:android:0a90bfb72b326bc0d9ca60",
+        "android_client_info": {
+          "package_name": "com.travend.travend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240664585505-nbok9sfsbga3cill56qbdujhiq4e0lrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXH6uQYvcGm-AXBJ0uJsPceCqe-0q136k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240664585505-nbok9sfsbga3cill56qbdujhiq4e0lrs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240664585505-tmj1mn7sdb6jh63g9bjtat4gpr9coutq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travend.travend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
